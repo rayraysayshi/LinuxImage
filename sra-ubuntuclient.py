@@ -56,7 +56,7 @@ def main():
 #    mod_crontab()
     mod_minion()
     salt_call()
-    print "The script has completed.  Please report any issues or thanks to v.charles@partner.samsung.com"
+    print "The script is complete."
 
 if __name__ == "__main__":
     main()
